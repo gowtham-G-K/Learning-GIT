@@ -1,2 +1,3 @@
 Hello world! JAVA
 JAVA is awesome
+This example is to make merge conflicts.
